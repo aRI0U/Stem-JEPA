@@ -33,7 +33,9 @@ TODO
   <tr>
     <td style="text-align: center; vertical-align: middle;"><b>Conditioning</b></td>
     <td style="text-align: center; vertical-align: middle;"><b>Context</b></td>
-    <td style="text-align: center; vertical-align: middle;"><b>Closest to prediction</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>1-NN</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>2-NN</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>3-NN</b></td>
     <td style="text-align: center; vertical-align: middle;"><b>Ground truth</b></td>
   </tr>
 
@@ -47,6 +49,14 @@ TODO
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
       <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/2.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      GT
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/126/0.wav">
       </audio>
     </td>
     <td style="text-align: center; vertical-align: middle;">
@@ -70,6 +80,16 @@ TODO
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/3.wav">
+      </audio>
+    </td>
+      <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/29/0.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
       <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/1.wav">
       </audio>
     </td>
@@ -83,7 +103,22 @@ TODO
       </audio>
     </td>
     <td style="text-align: center; vertical-align: middle;">
-      <i>correctly retrieved</i>
+      GT
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/1.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/1.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/17/2.wav">
+      </audio>
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
@@ -103,6 +138,14 @@ TODO
       <audio controls>
       <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/123/3.wav">
       </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/56/3.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      GT
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
