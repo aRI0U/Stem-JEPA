@@ -29,6 +29,7 @@ put figure 1 here
 TODO
 
 <table>
+<caption><b>  </b></caption>
   <tr>
     <td style="text-align: center; vertical-align: middle;"><b>Conditioning</b></td>
     <td style="text-align: center; vertical-align: middle;"><b>Context</b></td>
@@ -56,14 +57,58 @@ TODO
   </tr>
 
   <tr>
-    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/tomin.png"></td>
-    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/tomWAE.png"></td>
-    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/tomout.png"></td>
+    <td><b>Drums</b></td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/no_1.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/2.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/1.wav">
+      </audio>
+    </td>
   </tr>
+  
   <tr>
-    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/tomwin.png"></td>
-    <td></td>
-    <td><img class="recimg" src="https://anonymous9123.github.io/iccc-ndm/figures/rec/tomwout.png"></td>
+    <td><b>Other</b></td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/no_2.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <i>correctly retrieved</i>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/2.wav">
+      </audio>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><b>Vocals</b></td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/no_3.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/123/3.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/3.wav">
+      </audio>
+    </td>
   </tr>
 </table>
 
