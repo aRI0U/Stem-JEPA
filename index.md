@@ -29,23 +29,28 @@ put figure 1 here
 TODO
 
 <table>
-<caption><b> Tom </b></caption>
   <tr>
-    <td style="text-align: center; vertical-align: middle;"><b>Input</b></td>
-    <td style="text-align: center; vertical-align: middle;"><b>WAE Output</b></td>
-    <td style="text-align: center; vertical-align: middle;"><b>Output</b></td>
+    <td style="text-align: center; vertical-align: middle;"></td>
+    <td style="text-align: center; vertical-align: middle;"><b>Context</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>Closest to prediction</b></td>
+    <td style="text-align: center; vertical-align: middle;"><b>Ground truth</b></td>
   </tr>
 
   <tr>
+    <td><b>Bass</b></td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
-      <source src="https://anonymous9123.github.io/iccc-ndm/sounds/rec/tom.wav">
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/mix/0/no_0_cropped.wav">
       </audio>
     </td>
-    <td> </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
-      <source src="https://anonymous9123.github.io/iccc-ndm/sounds/rec/tomr.wav">
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/mix/0/2_cropped.wav">
+      </audio>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <audio controls>
+      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/mix/0/0_cropped.wav">
       </audio>
     </td>
   </tr>
