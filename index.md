@@ -112,11 +112,6 @@ TODO
     </td>
     <td style="text-align: center; vertical-align: middle;">
       <audio controls>
-      <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/0/1.wav">
-      </audio>
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <audio controls>
       <source src="https://anonymous.4open.science/r/Stem-JEPA-0F88/audios/17/2.wav">
       </audio>
     </td>
